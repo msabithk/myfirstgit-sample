@@ -1,3 +1,5 @@
 my first line
 
 second line added
+
+master file modified again
