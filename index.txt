@@ -5,3 +5,5 @@ second line added
 master file modified again
 
 conflict from master
+
+conflict trying from new branch
